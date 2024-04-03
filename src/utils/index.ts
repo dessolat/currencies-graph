@@ -1,0 +1,1 @@
+export const getSlicedDate = (isoDate: Date) => isoDate.toISOString().slice(0, 10);
